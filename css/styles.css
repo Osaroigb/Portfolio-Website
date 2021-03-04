@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #11999E;
+    text-decoration-line: none;
+    margin: 0 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-top-color: #EAF6F6;
+    border-width: 8px;
+    width: 5%;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 70px;
+    right: 250px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 200px;
+}
+
+.profile {
+    width: 30%;
+    margin: auto;
+}
+
+.profile img {
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.profile p {
+    color: #40514E;
+    margin-bottom: 100px;
+}
+
+.skills h2 {
+    margin-top: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.laptop-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.dumbbell-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row p {
+    color: #40514E;
+}
+
+.contact-me {
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.contact-me h2 {
+    margin-top: 100px;
+}
+
+.contact-me p {
+    margin-bottom: 50px;
+    color: #40514E;
+}
+
+.contact-me a {
+    border: 10px solid #66BFBF;
+    border-radius: 10px;
+    color: #EAF6F6;
+    background-color: #66BFBF;
+}
+
+.contact-me a:hover {
+    border: 10px solid #11999E;
+    border-radius: 10px;
+    color: #EAF6F6;
+    background-color: #11999E;
+}
+
+.bottom-container {
+    margin-top: 100px;
+    padding: 50px 0 50px;
+    background-color: #66BFBF;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    margin: 30px 0 0;
+}
+
+
+.bar {
+    background-color: #66BFBF;
+    text-align: center;
+    padding: 5px;
+}
+
+.bar ul {
+    list-style-type: none;
+}
+
+.bar li {
+    display: inline;
+    margin: 0 20px;
+}
+
+.bar a {
+    text-decoration: none;
+    color: #EAF6F6;
+}
+
+.bar a:hover {
+    color: #11999E;
+}
+
+#project h3:hover {
+     color: #66BFBF;
+}
