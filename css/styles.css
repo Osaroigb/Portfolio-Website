@@ -173,3 +173,13 @@ hr {
 #project h3:hover {
      color: #66BFBF;
 }
+
+.gigs {
+    width: 50%;
+    margin: auto;
+}
+
+.proj {
+    width: 80%;
+    text-align:center;
+}
